@@ -1,0 +1,10 @@
+# Org default issue-template chooser config.
+# blank_issues_enabled: false forces contributors through the structured templates below.
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Knowledgemonger-LLC/.github/blob/main/SECURITY.md
+    about: Do NOT open a public issue for security problems — follow the security policy.
+  - name: Question or discussion
+    url: https://github.com/orgs/Knowledgemonger-LLC/discussions
+    about: For questions, ideas, and general discussion, please use Discussions.
