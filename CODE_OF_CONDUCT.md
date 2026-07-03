@@ -26,7 +26,7 @@ inappropriate in a professional setting.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the
 community leaders responsible for enforcement via the dedicated conduct reporting channel at
-`conduct@knowledgemonger-llc.com`. All complaints will be reviewed and investigated promptly and
+`dylittle@knowledgemonger.com`. All complaints will be reviewed and investigated promptly and
 fairly. Community leaders are obligated to respect the privacy and security of the reporter.
 
 ## Attribution
