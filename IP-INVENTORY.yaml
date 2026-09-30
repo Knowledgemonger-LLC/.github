@@ -14,8 +14,8 @@ name_and_location:
   local_path: (none - remote only)
 description: Organisation-wide default contributing guide, security policy, code of conduct and issue/PR templates.
 snapshot:
-  commit: PENDING
-  date: PENDING
+  commit: 845124da4f1cc3cc9c607d96743f0b88b5b0ba98
+  date: '2026-09-30'
   branch: main
   definition: The commit on main that first added this file. It is recorded by a follow-up commit, which changes
     only this snapshot block.
